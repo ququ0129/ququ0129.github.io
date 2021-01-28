@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0fff09;
+  background: #ff0df0;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2486,6 +2486,10 @@ hr {
 }
 .post-button .btn:hover {
   border-bottom-color: var(--btn-default-hover-border-color);
+}
+.posts-expand .post {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .sidebar {
   left: -320px;
