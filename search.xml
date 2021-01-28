@@ -23,8 +23,18 @@
   <entry>
     <title>test</title>
     <url>/2021/01/26/test/</url>
-    <content><![CDATA[<h1 id="第一篇"><a href="#第一篇" class="headerlink" title="第一篇"></a>第一篇</h1><p>真的不知道写点什么了。</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="cff79f2fe0c5881950bf503a9448bf470ab3ed5c0738caf66e02fc9af17a0b08">cb279ac9d75362f0f47f8720e37518a226b655a32bc2cda7cd57d86769eca98056d3e3c075f76081b5c3e6d89f93315b8e84ee7943bf332b8f880b2f4869ccbec665212eb2febf82de845e15fb883fecada65875efe93a1aa13954897316a2e8c151c7a3a7ed1e8711ea79406f336877a6aa22b669ec4b5023082b911880f53d29d7d7f314ac97513dbd27f5061ec3c3b567de77bed0f1988ba48aaacff72de868edb7710ed6d479408fb1cb90458f8d</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>工作</category>
       </categories>
